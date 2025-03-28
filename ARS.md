@@ -219,7 +219,8 @@
 ---
 
 ## 8. Токеномика (Токен `ARS`)
-**Логотип:** ![ARS Token Logo](https://raw.githubusercontent.com/Korguzalow/assets/1b362743b05b594d07239e4c745705121381db67/Vector.png)  
+**Логотип:** 
+[ARS Token Logo](https://raw.githubusercontent.com/Korguzalow/assets/1b362743b05b594d07239e4c745705121381db67/Vector.png)  
 *  **8.1. Название Токена:** `ARS`
 *  **8.2. Тикер:** `ARS`
 *  **8.3. Блокчейн:** `TON` (The Open Network)
