@@ -1,4 +1,4 @@
-#Copyright (c) [2025] [  Arcona Team  ]
+# **Copyright (c) [2025] [  Arcona Team  ]**
 
 Это произведение доступно по лицензии Creative Commons «Attribution-ShareAlike» («Атрибуция — На тех же условиях») 4.0 Всемирная.
 
