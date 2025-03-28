@@ -384,7 +384,7 @@
 *   **Telegram Канал:** [https://t.me/arconadigitalland]
 *   **Telegram Чат:** [https://t.me/arcona_digital_land]
 *   **Twitter / X:** [https://twitter.com/arconametaverse]
-*   **GitHub:** [Ссылка на репозиторий GitHub] 
+*   **GitHub:** [https://github.com/Korguzalow/STEP_TO_MARS_Whitepaper_RU/blob/main/ARS.md] 
 
 ---
 
