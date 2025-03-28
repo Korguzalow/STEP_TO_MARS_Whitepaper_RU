@@ -1,1 +1,1 @@
-# STEP_TO_MARS_Whitepaper_RU
+# STEP_TO_MARS
