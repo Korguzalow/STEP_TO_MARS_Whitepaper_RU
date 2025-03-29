@@ -53,3 +53,14 @@ Your reward amount depends on your **holding tier**, snapshotted on **April 12, 
 Don't miss the chance to get a significant reward, especially if you're supporting the project's liquidity!
 
 **Boost your holdings and confirm your participation before April 12!**
+
+---
+**Important Notes & Disclaimer:**
+
+*   **Distribution:** ARS tokens will be distributed manually after the snapshot date (April 12, 2024). Please allow reasonable time for processing.
+*   **User Responsibility:** Participants are solely responsible for providing the correct TON wallet address and maintaining its security. The team cannot recover tokens sent to incorrect addresses or assist with lost wallet access.
+*   **Finality:** The project team's determination of holding tiers and eligibility at the snapshot time is final.
+*   **Value & Risks:** ARS tokens are intended for use within the Martian Project ecosystem. Their market value is not guaranteed and is subject to volatility. This airdrop is not financial advice.
+*   **Taxes:** Participants are solely responsible for any potential tax liabilities associated with receiving tokens in their jurisdiction.
+*   **Changes:** The team reserves the right to make adjustments to the campaign rules if necessary due to unforeseen technical or regulatory circumstances.
+*   **No Guarantee:** Meeting the conditions does not guarantee token receipt in case of technical failures during verification or distribution beyond the team's control.
