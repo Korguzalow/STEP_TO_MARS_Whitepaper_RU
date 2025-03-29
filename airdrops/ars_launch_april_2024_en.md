@@ -14,22 +14,22 @@ The airdrop is for holders of:
 
 ### How Will Your Reward Be Calculated?
 
-Your reward amount depends on your **holding tier**, snapshotted on **April 12, 2024**. The tier system is similar to the one used for Silver exchange, but with a **major boost for Premium status!**
+Your reward amount depends on your **holding tier**, snapshotted on **April 12, 2024**. We are using 5 tiers inspired by the Silver exchange system, with a **major boost for Premium status!**
 
-*   **Basic Status:** Determined by the amount of **ARCONA (ETH)**.
+*   **Basic Status:** Determined by the amount of **ARCONA (ETH)**. *Requirements updated!*
 *   **Premium Status:** Determined by the amount of **LP tokens (Cake-LP BSC / UNI-V2 ETH)**.
 
 🔥🔥 **Key Rule: Premium holders receive 10 times (x10) the reward of Basic holders at the same tier!** 🔥🔥
 
-### ARS Reward Table (with x10 Bonus for LP):
+### ARS Reward Table (with updated ARCONA requirements and x10 Bonus for LP):
 
 | Tier  | Requirement (Basic) | Reward ARS (Basic) | Requirement (Premium) | Reward ARS (Premium) |
 | :---- | :-------------------- | :-----------------: | :-------------------- | :-------------------: |
-| **1** | 50 ARCONA             |    **2,000 ARS**    | 1 LP                  |    **20,000 ARS**     |
-| **2** | 100 ARCONA            |    **4,000 ARS**    | 2 LP                  |    **40,000 ARS**     |
-| **3** | 500 ARCONA            |   **20,000 ARS**    | 10 LP                 |   **200,000 ARS**     |
-| **4** | 1000 ARCONA           |   **40,000 ARS**    | 20 LP                 |   **400,000 ARS**     |
-| **5** | 5000 ARCONA           |  **200,000 ARS**    | 100 LP                | **2,000,000 ARS**     |
+| **1** | **100 ARCONA**        |    **2,000 ARS**    | **1 LP**              |    **20,000 ARS**     |
+| **2** | **250 ARCONA**        |    **4,000 ARS**    | **2 LP**              |    **40,000 ARS**     |
+| **3** | **500 ARCONA**        |   **20,000 ARS**    | **10 LP**             |   **200,000 ARS**     |
+| **4** | **1000 ARCONA**       |   **40,000 ARS**    | **20 LP**             |   **400,000 ARS**     |
+| **5** | **2500 ARCONA**       |  **200,000 ARS**    | **100 LP**            | **2,000,000 ARS**     |
 
 **Important:** You will receive the reward **only for the single highest tier you achieve**.
 
