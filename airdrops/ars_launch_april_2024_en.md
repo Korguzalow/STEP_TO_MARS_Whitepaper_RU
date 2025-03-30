@@ -9,12 +9,12 @@ ARS is the key to new opportunities within the Arcona metaverse, the token of ou
 ### Who Will Receive ARS Tokens?
 
 The airdrop is for holders of:
-*   **ARCONA** tokens (on the ETH network)
+*   **ARCONA** tokens (on the ETH and BSC network)
 *   Liquidity tokens: **PancakeSwap (Cake-LP on BSC)** and **Uniswap (UNI-V2 on ETH)**
 
 ### How Will Your Reward Be Calculated?
 
-Your reward amount depends on your **holding tier**, snapshotted on **April 12, 2024**. We are using 5 tiers inspired by the Silver exchange system, with a **major boost for Premium status!**
+Your reward amount depends on your **holding tier**, snapshotted on **April 12, 2025**. We are using 5 tiers inspired by the Silver exchange system, with a **major boost for Premium status!**
 
 *   **Basic Status:** Determined by the amount of **ARCONA (ETH)**. *Requirements updated!*
 *   **Premium Status:** Determined by the amount of **LP tokens (Cake-LP BSC / UNI-V2 ETH)**.
@@ -44,7 +44,7 @@ Your reward amount depends on your **holding tier**, snapshotted on **April 12, 
 ### Summary:
 
 *   📅 **Snapshot Date:** April 12, 2025.
-*   🪙 **What to Hold:** **ARCONA (ETH)** *or* **LP (BSC/ETH)**.
+*   🪙 **What to Hold:** **ARCONA** *or* **LP (BSC/ETH)**.
 *   ⭐️ **Bonus:** **x10 ARS for LP holders** compared to ARCONA at the same tier!
 *   🤖 **Action Required:** Use `/HOLD` in Eva + provide **TON wallet** by April 12.
 *   💰 **Reward Destination:** Your **TON** wallet.
