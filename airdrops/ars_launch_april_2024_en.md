@@ -38,7 +38,7 @@ Your reward amount depends on your **holding tier**, snapshotted on **April 12, 
 1.  **Hold Your Tokens:** Ensure your ETH/BSC wallet (linked to Eva) holds enough ARCONA or LP tokens for your desired tier. Remember the super-bonus for LPs!
 2.  **Use the Eva Bot:** Go to **https://t.me/arcona_metabolism_bot** and send the `/HOLD` command.
 3.  **Provide Your TON Wallet:** Enter your wallet address on the **TON (The Open Network)** when prompted by the bot. This is crucial for receiving ARS.
-4.  **Meet the Deadline:** Complete steps 2 and 3 **by April 12, 2024 (inclusive)**.
+4.  **Meet the Deadline:** Complete steps 2 and 3 **by April 12, 2025 (inclusive)**.
 5.  **Await Airdrop:** After April 12, the team will manually distribute the **20,000,000 ARS** based on the snapshot tiers and the TON wallets provided.
 
 ### Summary:
@@ -46,18 +46,18 @@ Your reward amount depends on your **holding tier**, snapshotted on **April 12, 
 *   📅 **Snapshot Date:** April 12, 2025.
 *   🪙 **What to Hold:** **ARCONA** *or* **LP (BSC/ETH)**.
 *   ⭐️ **Bonus:** **x10 ARS for LP holders** compared to ARCONA at the same tier!
-*   🤖 **Action Required:** Use `/HOLD` in Eva + provide **TON wallet** by April 12.
+*   🤖 **Action Required:** Use `/HOLD` in Eva + provide **TON wallet** by April 12, 2025.
 *   💰 **Reward Destination:** Your **TON** wallet.
 *   🎁 **Total Airdrop Pool:** **20,000,000 ARS**.
 
 Don't miss the chance to get a significant reward, especially if you're supporting the project's liquidity!
 
-**Boost your holdings and confirm your participation before April 12!**
+**Boost your holdings and confirm your participation before April 12, 2025!**
 
 ---
 **Important Notes & Disclaimer:**
 
-*   **Distribution:** ARS tokens will be distributed manually after the snapshot date (April 12, 2024). Please allow reasonable time for processing.
+*   **Distribution:** ARS tokens will be distributed manually after the snapshot date (April 12, 2025). Please allow reasonable time for processing.
 *   **User Responsibility:** Participants are solely responsible for providing the correct TON wallet address and maintaining its security. The team cannot recover tokens sent to incorrect addresses or assist with lost wallet access.
 *   **Finality:** The project team's determination of holding tiers and eligibility at the snapshot time is final.
 *   **Value & Risks:** ARS tokens are intended for use within the Martian Project ecosystem. Their market value is not guaranteed and is subject to volatility. This airdrop is not financial advice.
