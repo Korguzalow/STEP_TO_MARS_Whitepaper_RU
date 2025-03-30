@@ -16,7 +16,7 @@ The airdrop is for holders of:
 
 Your reward amount depends on your **holding tier**, snapshotted on **April 12, 2025**. We are using 5 tiers inspired by the Silver exchange system, with a **major boost for Premium status!**
 
-*   **Basic Status:** Determined by the amount of **ARCONA (ETH)**. *Requirements updated!*
+*   **Basic Status:** Determined by the amount of **ARCONA **. 
 *   **Premium Status:** Determined by the amount of **LP tokens (Cake-LP BSC / UNI-V2 ETH)**.
 
 🔥🔥 **Key Rule: Premium holders receive 10 times (x10) the reward of Basic holders at the same tier!** 🔥🔥
@@ -38,7 +38,7 @@ Your reward amount depends on your **holding tier**, snapshotted on **April 12, 
 1.  **Hold Your Tokens:** Ensure your ETH/BSC wallet (linked to Eva) holds enough ARCONA or LP tokens for your desired tier. Remember the super-bonus for LPs!
 2.  **Use the Eva Bot:** Go to **https://t.me/arcona_metabolism_bot** and send the `/HOLD` command.
 3.  **Provide Your TON Wallet:** Enter your wallet address on the **TON (The Open Network)** when prompted by the bot. This is crucial for receiving ARS.
-4.  **Meet the Deadline:** Complete steps 2 and 3 **by April 12, 2025 (inclusive)**.
+4.  **Meet the Deadline:** Complete steps 2 and 3 **on April 12, 2025 (inclusive)**.
 5.  **Await Airdrop:** After April 12, the team will manually distribute the **20,000,000 ARS** based on the snapshot tiers and the TON wallets provided.
 
 ### Summary:
@@ -46,7 +46,7 @@ Your reward amount depends on your **holding tier**, snapshotted on **April 12, 
 *   📅 **Snapshot Date:** April 12, 2025.
 *   🪙 **What to Hold:** **ARCONA** *or* **LP (BSC/ETH)**.
 *   ⭐️ **Bonus:** **x10 ARS for LP holders** compared to ARCONA at the same tier!
-*   🤖 **Action Required:** Use `/HOLD` in Eva + provide **TON wallet** by April 12, 2025.
+*   🤖 **Action Required:** Use `/HOLD` in Eva + provide **TON wallet** on April 12, 2025.
 *   💰 **Reward Destination:** Your **TON** wallet.
 *   🎁 **Total Airdrop Pool:** **20,000,000 ARS**.
 
