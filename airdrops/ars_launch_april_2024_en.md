@@ -36,14 +36,14 @@ Your reward amount depends on your **holding tier**, snapshotted on **April 12, 
 ### How to Participate and Receive Your ARS?
 
 1.  **Hold Your Tokens:** Ensure your ETH/BSC wallet (linked to Eva) holds enough ARCONA or LP tokens for your desired tier. Remember the super-bonus for LPs!
-2.  **Use the Eva Bot:** Go to **[>>> INSERT YOUR EVA BOT LINK HERE <<<]** and send the `/HOLD` command.
+2.  **Use the Eva Bot:** Go to **https://t.me/arcona_metabolism_bot** and send the `/HOLD` command.
 3.  **Provide Your TON Wallet:** Enter your wallet address on the **TON (The Open Network)** when prompted by the bot. This is crucial for receiving ARS.
 4.  **Meet the Deadline:** Complete steps 2 and 3 **by April 12, 2024 (inclusive)**.
 5.  **Await Airdrop:** After April 12, the team will manually distribute the **20,000,000 ARS** based on the snapshot tiers and the TON wallets provided.
 
 ### Summary:
 
-*   📅 **Snapshot Date:** April 12, 2024.
+*   📅 **Snapshot Date:** April 12, 2025.
 *   🪙 **What to Hold:** **ARCONA (ETH)** *or* **LP (BSC/ETH)**.
 *   ⭐️ **Bonus:** **x10 ARS for LP holders** compared to ARCONA at the same tier!
 *   🤖 **Action Required:** Use `/HOLD` in Eva + provide **TON wallet** by April 12.
