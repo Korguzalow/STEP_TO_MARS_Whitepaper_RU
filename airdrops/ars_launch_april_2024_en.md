@@ -1,6 +1,6 @@
 ## 🚀 20,000,000 ARS Airdrop: x10 Reward for Premium Holders! 🚀
 
-Friends, the Martian Project is gaining momentum! To celebrate this milestone and reward our community – especially those supporting liquidity – we are announcing an airdrop of **20,000,000 ARS tokens** with a special bonus!
+Friends, the Martian project is gaining momentum! To celebrate this milestone and reward our community - especially those supporting liquidity - we are announcing an airdrop on April 12th, 2025, with 20 million ARS tokens and a special bonus. 
 
 ### What is ARS?
 
