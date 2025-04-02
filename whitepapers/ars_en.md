@@ -231,37 +231,72 @@ These mechanics will turn interaction with the Mars AR layer into an engaging pr
     *   **Logo:** [ARS Token Logo](https://raw.githubusercontent.com/Korguzalow/assets/1b362743b05b594d07239e4c745705121381db67/Vector.png)
     *   **Creation Note:** The token was created using the trusted TON Minter platform (`minter.ton.org`), ensuring a standardized and secure contract foundation.
 
-**8.5. Total Supply:** **1,448,000,000 `$ARS`** (One billion four hundred forty-eight million). This number symbolically reflects the project's scale, roughly corresponding to **10 `$ARS` tokens for every square kilometer of Mars' surface area** (~144.8 million km²).
+**8.5. Total Supply:** **1,448,000,000 $ARS** (One billion four hundred forty-eight million).
+*   *Symbolic Significance:* This number reflects the project's scale, roughly corresponding to 10 $ARS tokens per square kilometer of Mars' surface (~144.8 million km²).
 
 **8.6. Token Utility:**
-`$ARS` is an integral part of the `ARS - STEP TO MARS` ecosystem and serves the following functions:
+$ARS is the central element of the ARS - STEP TO MARS ecosystem, providing the following key functions:
 
-*   **Acquiring Digital Land:** The primary means for purchasing (minting) and trading `NFT` plots on Mars.
-*   **Platform Fees:** Payment for using certain services, e.g., placing complex or advertising AR content.
-*   **Marketplace Transactions:** The unit of account for buying and selling `NFT` plots, pre-made AR assets, avatars, and other digital goods/services between users.
-*   **`GameFi` Participation:** Staking for game participation, receiving rewards for completing missions (`P2E`), rewards for content creation (`C2E`).
-*   **Referral Program:** Payout of bonuses for attracting new users.
-*   **Staking (Planned):** The ability to lock `$ARS` tokens to earn rewards and support ecosystem stability.
-*   **Governance (`DAO` - Planned):** In the future, `$ARS` holders will be able to participate in decision-making regarding the project's development through a decentralized governance mechanism.
+*   **AR Land Activation and Acquisition:** $ARS is used to activate basic rights to land blocks (via a burn mechanism) and to unlock the full functionality of individual hexagons (via a lock mechanism). The token also serves as the medium for purchasing (minting) and trading NFT land plots on Mars. (See Burn+Lock mechanism in section 8.7.2).
+*   **Platform Fees:** Payment for using specific services, such as posting complex or advertising AR content, minting unique assets.
+*   **Marketplace Transactions:** The unit of account for buying and selling NFT plots, ready-made AR assets, avatars, and other digital goods/services between users.
+*   **GameFi Participation:** Staking tokens to participate in games, earning rewards for completing missions (Play-to-Earn), rewards for content creation (Create-to-Earn).
+*   **Referral Program:** Payment of bonuses in $ARS for attracting new users.
+*   **Staking:** The ability to lock $ARS tokens to earn rewards (from the Staking & Participation Rewards pool) and support ecosystem stability.
+*   **Governance (DAO - Planned):** In the future, $ARS holders will be able to participate in project development decisions through a decentralized autonomous organization mechanism.
 
 **8.7. Token Distribution:**
+The total supply of 1,448,000,000 $ARS is allocated as follows:
 
-| Category                      | Percentage | Token Amount ($ARS) | Details                                                                                                                                |
-| :---------------------------- | :--------- | :------------------ | :------------------------------------------------------------------------------------------------------------------------------------- |
-| **Public Sale**               | 60%        | 868,800,000         | Via Telegram Mini-App for TON. Start price ~0.10 USD. Dynamic discount during the first 100 days.                                    |
-| **Marketing & Ecosystem Fund**| 20%        | 289,600,000         | Marketing, listings, partnerships, grants, community, liquidity. Managed by the team, transparent spending.                             |
-| **Project Team**              | 20%        | 289,600,000         | Team compensation. Vesting: **6-month cliff** from TGE, then 1/3 of the team's allocation unlocks at **6, 12, and 18 months** post-TGE. |
-| **Total**                     | **100%**   | **1,448,000,000**   |                                                                                                                                        |
+**8.7.1. Initial Distribution: 150,000,000 $ARS (~10.36% of total supply)**
+This portion is designated for project launch, initial fundraising, and rewarding early contributors.
 
-<!--
-[A graphical pie chart illustrating the token distribution will be placed here later: Public Sale - 60%, Marketing & Ecosystem Fund - 20%, Team - 20%]
--->
+*   **Public Sale: 90,000,000 $ARS (6.22%)**
+    *   *Purpose:* Funding development, initial marketing, and operational expenses.
+    *   *Conditions:* Sale via Telegram Mini-App for TON. Starting price ~0.10 USDT per $ARS. A dynamic discount applies, starting at 70% and linearly decreasing to 0% over the first 100 days of the sale.
+*   **Marketing & Bounty: 30,000,000 $ARS (2.07%)**
+    *   *Purpose:* Funding marketing campaigns, conducting Airdrops, rewarding community activity and contributions (bounty programs).
+*   **Team: 30,000,000 $ARS (2.07%)**
+    *   *Purpose:* Rewarding the core development team and project founders.
+    *   *Vesting:* Team tokens are subject to an 18-month vesting period starting from the Token Generation Event (TGE). Tokens unlock in three equal tranches: 1/3 after 6 months post-TGE, 1/3 after 12 months post-TGE, and 1/3 after 18 months post-TGE.
 
-**8.8. Value Accrual Mechanisms:**
+**8.7.2. Development & Utility Reserves: 1,298,000,000 $ARS (~89.64% of total supply)**
+This main portion of tokens is reserved to ensure long-term growth, ecosystem sustainability, and the token's core utility.
 
-*   **Organic Demand:** Growth in user base, increased content and marketplace transactions, and expansion of `GameFi` activities will drive demand for `$ARS` for use within the ecosystem.
-*   **Deflationary Mechanisms (Planned):** Implementation of token burn mechanisms is being considered for a portion of `$ARS` collected as platform fees (e.g., % from marketplace trades, fees for minting unique assets) to reduce the total supply over time.
-*   **Staking (Planned):** Launching staking will allow holders to earn yield and will remove some tokens from active circulation, potentially reducing selling pressure on the market.
+*   **AR Land Activation Reserve: 1,000,000,000 $ARS (69.06%)**
+    *   *Mechanism:* Hybrid "Burn+Lock". This reserve is directly linked to the platform's core function – activating digital land.
+        *   **Burn:** 1 $ARS is burned (permanently removed from circulation) to acquire basic rights to a block of 1000 land hexagons. This creates deflationary pressure.
+        *   **Lock:** 1 $ARS is locked to activate the full functionality of one hexagon within a block. Locked tokens are temporarily removed from the circulating supply, increasing utility and encouraging holding.
+        *   *Return on Resale:* When an NFT plot (hexagon) is resold, the associated locked $ARS is returned to the seller, ready to be re-locked by the new owner or used otherwise.
+    *   *Purpose:* To provide the token's primary utility, create a deflationary mechanism via burning, incentivize holding via locking, and directly link token value to platform activity.
+*   **Ecosystem Growth Fund: 120,000,000 $ARS (8.29%)**
+    *   *Purpose:* Funding strategic initiatives, including grants for developers and content creators, partnerships, integrations with other projects, and long-term marketing programs.
+    *   *Governance:* Managed by the project team (with potential future DAO involvement). Funds are allocated progressively for specific goals and tasks.
+*   **Staking & Participation Rewards: 130,000,000 $ARS (8.98%)**
+    *   *Purpose:* Incentivizing users to lock (stake) their $ARS tokens to support the network and earn passive income, as well as rewarding active participation in the ecosystem (e.g., completing tasks, participating in GameFi).
+    *   *Emission:* These tokens will be distributed according to a predefined emission schedule (e.g., over 5 years) to ensure long-term incentives. [Note: Specify the X-year term here].
+*   **Treasury Reserve: 48,000,000 $ARS (3.31%)**
+    *   *Purpose:* A strategic reserve for unforeseen expenses, providing exchange liquidity (if needed), funding major platform upgrades, or responding to market changes.
+    *   *Control:* Access to funds is managed via a multi-signature (Multi-sig) wallet for enhanced security. Governed by the team (with potential future DAO involvement).
+
+**8.8. Distribution Visualization (Diagram Description Example):**
+A pie chart illustrating the $ARS token distribution would show the dominant "AR Land Activation Reserve" sector (69.06%), followed by smaller segments: "Staking & Participation Rewards" (8.98%), "Ecosystem Growth Fund" (8.29%), "Public Sale" (6.22%), "Treasury Reserve" (3.31%), "Marketing & Bounty" (2.07%), and "Team" (2.07%).
+
+**8.9. Value Accrual Mechanisms:**
+
+*   **Organic Demand:** Growth in user base, land activation, increased AR content volume, marketplace transactions, and GameFi activities will stimulate demand for $ARS for use within the ecosystem.
+*   **Hybrid "Burn+Lock" Mechanism (AR Land Activation):** This is the core value accrual mechanism:
+    *   **Burn (Deflation):** Continuous reduction of the total token supply as basic land rights are activated.
+    *   **Lock (Reduced Circulation):** Temporary removal of tokens from active circulation when hexagons are activated, reducing the available supply on the market.
+*   **Staking:** The launch of staking will allow holders to earn yield and will remove a portion of tokens from active circulation, potentially reducing sell pressure and rewarding long-term holders.
+*   **Additional Deflationary Mechanisms (Potential):** Future implementation of mechanisms to burn a portion of $ARS collected as platform fees (e.g., % of marketplace transactions, fees for minting unique assets) could further reduce the total supply over time.
+
+**8.10. Key Tokenomics Principles:**
+
+*   **Long-Term Vision:** Allocation of the majority of tokens to reserves for gradual use as the project grows.
+*   **Deep Utility:** Strong integration of the token into all key platform functions, especially via the "Burn+Lock" mechanism for land activation.
+*   **Controlled Emission:** Gradual release of tokens from reserves and team vesting to prevent sudden price dumps.
+*   **Community Engagement:** Incentivizing participation through staking, bounties, GameFi rewards, and future DAO implementation.
 
 ---
 
