@@ -19,7 +19,7 @@ Your holding level on **April 12, 2025,** determines your reward. We use 5 level
 *   **Basic Status (ARCONA):** Your ARS reward is equivalent to **half (0.5x)** the USD value of the required ARCONA for the level.
 *   **Premium Status (LP tokens):** Your ARS reward is equivalent to the **full (1.0x)** USD value of the required LP tokens for the level.
 
-🔥🔥 **Key Condition:** Receive a reward equivalent to 50% (Basic) or 100% (Premium) of the estimated value of your assets required for the level! 🔥🔥
+🔥 **Key Condition:** Receive a reward equivalent to 50% (Basic) or 100% (Premium) of the estimated value of your assets required for the level!
 
 ### ARS Rewards Table:
 
