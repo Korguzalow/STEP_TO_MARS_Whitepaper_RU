@@ -1,0 +1,894 @@
+User@DESKTOP-ILQPECN MINGW64 ~/mars-app-new (unity_experimental)
+$ npm install
+
+up to date, audited 1776 packages in 5s
+
+286 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (2 moderate, 6 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+User@DESKTOP-ILQPECN MINGW64 ~/mars-app-new (unity_experimental)
+$ npm start
+
+> mars-colonisation-app@0.1.0 start
+> react-scripts start
+
+
+(node:16728) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:16728) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view mars-colonisation-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.1.150:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\crypto\session-crypto.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\crypto\session-crypto.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\CHAIN.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\CHAIN.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-event\connect-event.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-event\connect-event.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\disconnect-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\disconnect-rpc-response.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\send-transaction-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\send-transaction-rpc-response.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\sign-data-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\sign-data-rpc-response.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\base64.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\base64.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\binary.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\binary.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\web-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\web-api.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\constants\version.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\constants\version.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\address\wrong-address.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\address\wrong-address.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\binary\parse-hex.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\binary\parse-hex.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\dapp\dapp-metadata.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\dapp\dapp-metadata.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-content-error.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-content-error.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-not-found.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-not-found.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\user-rejects.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\user-rejects.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\bad-request.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\bad-request.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\unknown-app.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\unknown-app.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\storage\localstorage-not-found.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\storage\localstorage-not-found.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\ton-connect.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\ton-connect.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\unknown.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\unknown.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-already-connected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-already-connected.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-missing-required-features.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-missing-required-features.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-connected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-connected.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-injected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-injected.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-support-feature.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-support-feature.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallets-manager\fetch-wallets.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallets-manager\fetch-wallets.error.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-connection-source.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-connection-source.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-info.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-info.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\connect-errors-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\connect-errors-parser.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\rpc-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\rpc-parser.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\send-transaction-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\send-transaction-parser.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-gateway.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-gateway.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-provider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-provider.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\models\bridge-connection.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\models\bridge-connection.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\injected-provider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\injected-provider.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\models\injected-wallet-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\models\injected-wallet-api.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\fallback-wallets-list.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\fallback-wallets-list.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\protocol.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\protocol.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\bridge-connection-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\bridge-connection-storage.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\default-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\default-storage.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\http-bridge-gateway-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\http-bridge-gateway-storage.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\models\in-memory-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\models\in-memory-storage.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\ton-connect.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\ton-connect.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\browser-event-dispatcher.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\browser-event-dispatcher.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\ton-connect-tracker.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\ton-connect-tracker.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\types.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\types.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\address.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\address.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\call-for-success.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\call-for-success.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\create-abort-controller.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\create-abort-controller.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\delay.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\delay.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\feature-support.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\feature-support.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\log.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\log.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\resource.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\resource.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\timeout.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\timeout.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\types.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\types.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\url.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\url.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\web-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\web-api.ts'
+
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\wallets-list-manager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\wallets-list-manager.ts'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\crypto\session-crypto.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\crypto\session-crypto.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\CHAIN.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\CHAIN.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-event\connect-event.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-event\connect-event.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\disconnect-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\disconnect-rpc-response.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\send-transaction-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\send-transaction-rpc-response.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\sign-data-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\sign-data-rpc-response.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\base64.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\base64.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\binary.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\binary.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\web-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\web-api.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\constants\version.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\constants\version.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\address\wrong-address.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\address\wrong-address.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\binary\parse-hex.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\binary\parse-hex.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\dapp\dapp-metadata.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\dapp\dapp-metadata.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-content-error.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-content-error.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-not-found.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-not-found.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\user-rejects.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\user-rejects.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\bad-request.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\bad-request.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\unknown-app.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\unknown-app.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\storage\localstorage-not-found.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\storage\localstorage-not-found.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\ton-connect.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\ton-connect.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\unknown.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\unknown.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-already-connected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-already-connected.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-missing-required-features.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-missing-required-features.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-connected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-connected.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-injected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-injected.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-support-feature.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-support-feature.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallets-manager\fetch-wallets.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallets-manager\fetch-wallets.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-connection-source.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-connection-source.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-info.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-info.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\connect-errors-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\connect-errors-parser.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\rpc-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\rpc-parser.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\send-transaction-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\send-transaction-parser.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-gateway.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-gateway.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-provider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-provider.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\models\bridge-connection.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\models\bridge-connection.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\injected-provider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\injected-provider.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\models\injected-wallet-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\models\injected-wallet-api.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\fallback-wallets-list.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\fallback-wallets-list.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\protocol.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\protocol.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\bridge-connection-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\bridge-connection-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\default-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\default-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\http-bridge-gateway-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\http-bridge-gateway-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\models\in-memory-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\models\in-memory-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\ton-connect.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\ton-connect.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\browser-event-dispatcher.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\browser-event-dispatcher.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\ton-connect-tracker.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\ton-connect-tracker.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\types.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\types.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\address.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\address.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\call-for-success.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\call-for-success.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\create-abort-controller.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\create-abort-controller.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\delay.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\delay.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\feature-support.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\feature-support.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\log.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\log.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\resource.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\resource.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\timeout.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\timeout.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\types.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\types.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\url.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\url.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\web-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\web-api.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\wallets-list-manager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\wallets-list-manager.ts'
+
+webpack compiled with 59 warnings
+Compiling...
+Failed to compile.
+
+Attempted import error: 'TonConnectButton' is not exported from '@tonconnect/ui' (imported as 'TonConnectButton').
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\crypto\session-crypto.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\crypto\session-crypto.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\CHAIN.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\CHAIN.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-event\connect-event.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-event\connect-event.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\disconnect-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\disconnect-rpc-response.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\send-transaction-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\send-transaction-rpc-response.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\sign-data-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\sign-data-rpc-response.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\base64.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\base64.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\binary.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\binary.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\web-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\web-api.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\constants\version.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\constants\version.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\address\wrong-address.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\address\wrong-address.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\binary\parse-hex.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\binary\parse-hex.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\dapp\dapp-metadata.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\dapp\dapp-metadata.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-content-error.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-content-error.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-not-found.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-not-found.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\user-rejects.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\user-rejects.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\bad-request.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\bad-request.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\unknown-app.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\unknown-app.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\storage\localstorage-not-found.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\storage\localstorage-not-found.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\ton-connect.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\ton-connect.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\unknown.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\unknown.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-already-connected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-already-connected.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-missing-required-features.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-missing-required-features.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-connected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-connected.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-injected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-injected.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-support-feature.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-support-feature.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallets-manager\fetch-wallets.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallets-manager\fetch-wallets.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-connection-source.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-connection-source.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-info.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-info.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\connect-errors-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\connect-errors-parser.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\rpc-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\rpc-parser.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\send-transaction-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\send-transaction-parser.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-gateway.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-gateway.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-provider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-provider.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\models\bridge-connection.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\models\bridge-connection.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\injected-provider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\injected-provider.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\models\injected-wallet-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\models\injected-wallet-api.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\fallback-wallets-list.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\fallback-wallets-list.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\protocol.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\protocol.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\bridge-connection-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\bridge-connection-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\default-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\default-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\http-bridge-gateway-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\http-bridge-gateway-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\models\in-memory-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\models\in-memory-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\ton-connect.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\ton-connect.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\browser-event-dispatcher.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\browser-event-dispatcher.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\ton-connect-tracker.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\ton-connect-tracker.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\types.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\types.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\address.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\address.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\call-for-success.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\call-for-success.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\create-abort-controller.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\create-abort-controller.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\delay.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\delay.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\feature-support.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\feature-support.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\log.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\log.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\resource.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\resource.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\timeout.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\timeout.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\types.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\types.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\url.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\url.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\web-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\web-api.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\wallets-list-manager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\wallets-list-manager.ts'
+
+ERROR in ./src/App.js 17:35-51
+export 'TonConnectButton' (imported as 'TonConnectButton') was not found in '@tonconnect/ui' (possible exports: BadRequestError, BrowserEventDispatcher, CHAIN, CONNECT_EVENT_ERROR_CODES, CONNECT_ITEM_ERROR_CODES, FetchWalletsError, LocalstorageNotFoundError, ParseHexError, SEND_TRANSACTION_ERROR_CODES, THEME, TonConnect, TonConnectError, TonConnectUI, TonConnectUIError, UnknownAppError, UnknownError, UserRejectsError, WalletAlreadyConnectedError, WalletMissingRequiredFeaturesError, WalletNotConnectedError, WalletNotInjectedError, WalletNotSupportFeatureError, WalletsListManager, WrongAddressError, checkRequiredWalletFeatures, createConnectionCompletedEvent, createConnectionErrorEvent, createConnectionRestoringCompletedEvent, createConnectionRestoringErrorEvent, createConnectionRestoringStartedEvent, createConnectionStartedEvent, createDisconnectionEvent, createRequestVersionEvent, createResponseVersionEvent, createTransactionSentForSignatureEvent, createTransactionSignedEvent, createTransactionSigningFailedEvent, createVersionInfo, encodeTelegramUrlParameters, isTelegramUrl, isWalletInfoCurrentlyEmbedded, isWalletInfoCurrentlyInjected, isWalletInfoInjectable, isWalletInfoInjected, isWalletInfoRemote, toUserFriendlyAddress)
+
+webpack compiled with 1 error and 59 warnings
+Compiling...
+Failed to compile.
+
+Attempted import error: 'TonConnectButton' is not exported from '@tonconnect/ui' (imported as 'TonConnectButton').
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\crypto\session-crypto.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\crypto\session-crypto.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\CHAIN.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\CHAIN.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-event\connect-event.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-event\connect-event.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\disconnect-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\disconnect-rpc-response.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\send-transaction-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\send-transaction-rpc-response.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\sign-data-rpc-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\models\wallet-message\wallet-response\sign-data-rpc-response.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\base64.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\base64.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\binary.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\binary.ts'
+
+WARNING in ./node_modules/@tonconnect/protocol/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\web-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\protocol\src\utils\web-api.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\constants\version.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\constants\version.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\address\wrong-address.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\address\wrong-address.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\binary\parse-hex.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\binary\parse-hex.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\dapp\dapp-metadata.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\dapp\dapp-metadata.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-content-error.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-content-error.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-not-found.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\manifest-not-found.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\user-rejects.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\events\connect\user-rejects.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\bad-request.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\bad-request.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\unknown-app.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\protocol\responses\unknown-app.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\storage\localstorage-not-found.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\storage\localstorage-not-found.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\ton-connect.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\ton-connect.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\unknown.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\unknown.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-already-connected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-already-connected.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-missing-required-features.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-missing-required-features.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-connected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-connected.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-injected.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-injected.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-support-feature.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallet\wallet-not-support-feature.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallets-manager\fetch-wallets.error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\errors\wallets-manager\fetch-wallets.error.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-connection-source.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-connection-source.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-info.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\models\wallet\wallet-info.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\connect-errors-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\connect-errors-parser.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\rpc-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\rpc-parser.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\send-transaction-parser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\parsers\send-transaction-parser.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-gateway.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-gateway.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-provider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\bridge-provider.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\models\bridge-connection.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\bridge\models\bridge-connection.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\injected-provider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\injected-provider.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\models\injected-wallet-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\provider\injected\models\injected-wallet-api.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\fallback-wallets-list.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\fallback-wallets-list.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\protocol.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\resources\protocol.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\bridge-connection-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\bridge-connection-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\default-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\default-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\http-bridge-gateway-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\http-bridge-gateway-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\models\in-memory-storage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\storage\models\in-memory-storage.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\ton-connect.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\ton-connect.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\browser-event-dispatcher.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\browser-event-dispatcher.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\ton-connect-tracker.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\ton-connect-tracker.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\types.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\tracker\types.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\address.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\address.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\call-for-success.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\call-for-success.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\create-abort-controller.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\create-abort-controller.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\delay.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\delay.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\feature-support.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\feature-support.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\log.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\log.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\resource.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\resource.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\timeout.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\timeout.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\types.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\types.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\url.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\url.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\web-api.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\utils\web-api.ts'
+
+WARNING in ./node_modules/@tonconnect/sdk/lib/esm/index.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\wallets-list-manager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\User\mars-app-new\node_modules\@tonconnect\sdk\src\wallets-list-manager.ts'
+
+ERROR in ./src/App.js 17:35-51
+export 'TonConnectButton' (imported as 'TonConnectButton') was not found in '@tonconnect/ui' (possible exports: BadRequestError, BrowserEventDispatcher, CHAIN, CONNECT_EVENT_ERROR_CODES, CONNECT_ITEM_ERROR_CODES, FetchWalletsError, LocalstorageNotFoundError, ParseHexError, SEND_TRANSACTION_ERROR_CODES, THEME, TonConnect, TonConnectError, TonConnectUI, TonConnectUIError, UnknownAppError, UnknownError, UserRejectsError, WalletAlreadyConnectedError, WalletMissingRequiredFeaturesError, WalletNotConnectedError, WalletNotInjectedError, WalletNotSupportFeatureError, WalletsListManager, WrongAddressError, checkRequiredWalletFeatures, createConnectionCompletedEvent, createConnectionErrorEvent, createConnectionRestoringCompletedEvent, createConnectionRestoringErrorEvent, createConnectionRestoringStartedEvent, createConnectionStartedEvent, createDisconnectionEvent, createRequestVersionEvent, createResponseVersionEvent, createTransactionSentForSignatureEvent, createTransactionSignedEvent, createTransactionSigningFailedEvent, createVersionInfo, encodeTelegramUrlParameters, isTelegramUrl, isWalletInfoCurrentlyEmbedded, isWalletInfoCurrentlyInjected, isWalletInfoInjectable, isWalletInfoInjected, isWalletInfoRemote, toUserFriendlyAddress)
+
+webpack compiled with 1 error and 59 warnings
+
